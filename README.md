@@ -1,5 +1,5 @@
 # Tutorial Belajar HTML dari nol Bahasa Indonesia
-Ini adalah Repository Tutorial Belajar HTML untuk pemula yang disediakan oleh cafekode dalam serial <a href="https://www.cafekode.com/p/html.html">Belajar HTML</a>
+Ini adalah Repository Tutorial Belajar HTML untuk pemula yang disediakan oleh cafekode dalam serial <a href="https://www.cafekode.com/p/html.html">Belajar HTML dari nol</a>
 untuk Informasi lebih lanjut silahkan kunjungi tutorial berikut ini
 <ul>
   <li><a href="https://www.cafekode.com/2022/04/html-pengenalan.html">Belajar HTML #01 : Pengenalan HTML</a></li>
